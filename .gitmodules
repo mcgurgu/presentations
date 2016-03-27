@@ -1,0 +1,3 @@
+[submodule "linux-gaming"]
+	path = linux-gaming
+	url = git@github.com:OSUOSC/linux-gaming.git
