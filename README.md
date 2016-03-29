@@ -16,7 +16,7 @@ Submodules are presentations I have worked with someone one else. If you like to
 
 # Presentations
 
-## ```Git: An Introduction and Explaination```
+## ```Git: An Introduction and Explanation```
 * Explains how to setup Git.
 * Explains motivation for source control.
 * Explains how Git works internally.
