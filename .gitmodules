@@ -1,3 +1,6 @@
 [submodule "linux-gaming"]
 	path = linux-gaming
 	url = git@github.com:OSUOSC/linux-gaming.git
+[submodule "osc-weekly-rundown"]
+	path = osc-weekly-rundown
+	url = git@github.com:OSUOSC/osc-weekly-rundown.git
